@@ -1,0 +1,5 @@
+model/
+poc/
+*.pyc
+.ipynb_checkpoints
+old/
